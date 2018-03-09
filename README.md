@@ -17,3 +17,7 @@
 [Identification and genetic characterization of Piscirickettsia salmonis in native fish from southern Chile.](https://www.ncbi.nlm.nih.gov/pubmed/26290508)
 
 [Phenotypic and genetic characterization of Piscirickettsia salmonis from Chilean and Canadian salmonids.](https://www.ncbi.nlm.nih.gov/pubmed/26975395)
+
+### IPNV
+
+[Molecular characterization of infectious pancreatic necrosis virus strains isolated from the three types of salmonids farmed in Chile.](https://www.ncbi.nlm.nih.gov/pubmed/28143585)
