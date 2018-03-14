@@ -1,3 +1,4 @@
+
 # Tesinas
 
 ## Biotec. Ambiental y vegertal
@@ -17,6 +18,8 @@
 [Identification and genetic characterization of Piscirickettsia salmonis in native fish from southern Chile.](https://www.ncbi.nlm.nih.gov/pubmed/26290508)
 
 [Phenotypic and genetic characterization of Piscirickettsia salmonis from Chilean and Canadian salmonids.](https://www.ncbi.nlm.nih.gov/pubmed/26975395)
+
+[Piscirickettsia salmonis induces apoptosis in macrophages and monocyte-like cells from rainbow trout.](https://www.ncbi.nlm.nih.gov/pubmed/20432244)
 
 ### IPNV
 
